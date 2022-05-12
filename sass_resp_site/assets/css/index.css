@@ -1,0 +1,56 @@
+body {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.why-academy {
+  width: 40%;
+  padding-top: 5%;
+  display: inline-block;
+}
+
+.why-academy-header {
+  display: inline-block;
+}
+
+.wah {
+  margin: 0px;
+  padding: 0;
+  font-size: 42px;
+  font-family: Sans-serif;
+}
+
+.grey {
+  margin-bottom: -15px;
+  color: grey;
+}
+
+.bold {
+  font-weight: bolder;
+}
+
+.wac {
+  margin-top: 20px;
+}
+
+.rainbow-line {
+  margin: 10px 0px;
+}
+
+.system {
+  padding-top: 40px;
+}
+
+.teqdimat {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.teqdimat-header {
+  font-size: 30px;
+  font-weight: bold;
+}
+/*# sourceMappingURL=index.css.map */
